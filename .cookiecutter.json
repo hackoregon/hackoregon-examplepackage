@@ -1,0 +1,13 @@
+{
+    "_template": "gh:hackoregon/cookiecutter-hacko-backend",
+    "app_name": "examplepackage",
+    "email": "bhgrant8@gmail.com",
+    "full_name": "Brian Grant",
+    "github_username": "bhgrant8",
+    "open_source_license": "MIT",
+    "project_short_description": "My project says hi",
+    "pypi_project_name": "hackoregon-examplepackage",
+    "repo_name": "hackoregon-examplepackage",
+    "version": "0.1.0",
+    "year": "2019"
+}

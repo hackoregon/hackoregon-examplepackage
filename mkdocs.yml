@@ -1,0 +1,4 @@
+site_name: hackoregon-examplepackage
+site_description: My project says hi
+repo_url: https://github.com/hackoregon/hackoregon-examplepackage
+site_dir: html
